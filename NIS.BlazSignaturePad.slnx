@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/BlazorServerSample/BlazorServerSample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/NIS.BlazSignaturePad/NIS.BlazSignaturePad.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NIS.BlazSignaturePad.E2E/NIS.BlazSignaturePad.E2E.csproj" />
+    <Project Path="tests/NIS.BlazSignaturePad.Tests/NIS.BlazSignaturePad.Tests.csproj" />
+  </Folder>
+</Solution>
