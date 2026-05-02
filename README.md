@@ -2,6 +2,8 @@
 
 A Blazor Razor Class Library (RCL) wrapping **[szimek/signature_pad](https://github.com/szimek/signature_pad)** v5.1.3 for smooth signature drawing in Blazor applications.
 
+![Demo Screenshot](assets/demo.png)
+
 ## Features
 
 - Smooth signature drawing on HTML5 canvas
